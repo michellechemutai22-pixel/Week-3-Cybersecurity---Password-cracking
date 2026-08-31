@@ -76,3 +76,24 @@ Networkwalks own Hash Calculator + Dictionary Attack tool
 
 Both approaches recovered the password good-luck from the protected PDF and allowed me to capture the flag nw{cybersecurity_flag_captured_2608}.
 This practical clearly demonstrated how weak passwords can be quickly recovered using dictionary attacks, highlighting the importance of strong password policies.
+
+<h2><u>2. Evidence collected</u></h2>
+<h3>Part 1: John the Ripper (via Johnny GUI)</h3>
+<img width="341" height="365" alt="successful" src="https://github.com/user-attachments/assets/83960d53-0d2c-4fe1-b5b6-8261961f5c50" />
+<img width="959" height="508" alt="cracked the password" src="https://github.com/user-attachments/assets/f0d482a0-9f1d-4dc0-b682-e0c457f7b517" />
+<img width="959" height="234" alt="Start a new attack" src="https://github.com/user-attachments/assets/6284de4a-eaef-4415-94be-5d900ad67f25" />
+<img width="959" height="245" alt="open hash1 txt on johnny" src="https://github.com/user-attachments/assets/9d4723ab-1d61-4a04-92d7-8ffee6be0ad3" />
+<img width="619" height="312" alt="hash value" src="https://github.com/user-attachments/assets/0213d256-a988-43b2-a8be-285328b3fa58" />
+<img width="621" height="254" alt="uploading locked file to online hash crack" src="https://github.com/user-attachments/assets/53ad001f-3cad-4996-bfa0-39fe011d2836" />
+<img width="959" height="225" alt="Install johny" src="https://github.com/user-attachments/assets/35b4727c-88e2-4ea0-8401-04dac7042c0d" />
+<img width="959" height="232" alt="uploading john to johnny" src="https://github.com/user-attachments/assets/ab1a669c-c3e7-48d2-ae6b-af958ec3f316" />
+<img width="955" height="434" alt="download john the reaper" src="https://github.com/user-attachments/assets/8b3003d8-0017-4ebe-9314-c1d194185dd1" />
+
+<h3>Part 2:Networkwalks Hash Calculator + Dictionary Attack Lab</h3>
+<img width="303" height="392" alt="cracked it" src="https://github.com/user-attachments/assets/3955d7e5-ce2a-4290-90a1-c73eeb40b805" />
+<img width="649" height="426" alt="cracked the password by uploading the wordlist" src="https://github.com/user-attachments/assets/3289072e-65ee-400b-abb4-6cf5bde1b307" />
+<img width="683" height="400" alt="upload hash on password cracker" src="https://github.com/user-attachments/assets/d1072ebe-f96d-4959-b178-4a8f0709e05a" />
+<img width="665" height="434" alt="generated hash 2" src="https://github.com/user-attachments/assets/0e2685b4-8d6b-4d30-87a1-1d69d3dab7f5" />
+<img width="725" height="419" alt="Uploading locked file to hash calculator 1" src="https://github.com/user-attachments/assets/453533cb-821d-4719-8326-6d7148631822" />
+
+
